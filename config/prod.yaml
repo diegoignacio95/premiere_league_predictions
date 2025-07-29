@@ -1,0 +1,63 @@
+# Production Data Collection Configuration
+# Use this configuration for production data collection runs
+
+data_collection:
+  # Environment configuration
+  environment: "prod"
+  
+  # Seasons to collect data for
+  seasons:
+    - "2019-2020"
+    - "2020-2021" 
+    - "2021-2022"
+    - "2022-2023"
+    - "2023-2024"
+    - "2024-2025"
+  
+  # Output configuration
+  output:
+    formats: ["json", "csv"]  # Available: json, csv, parquet
+    base_path: "../../data"
+  
+  # Data filtering options
+  filters:
+    teams: null  # null = all teams, or list like ["Arsenal", "Manchester City"]
+    competitions: ["Premier League"]
+    seasons: null  # null = use all seasons above, or subset like ["2023-2024", "2024-2025"]
+    max_matches: null  # null = no limit, or number for testing (e.g., 100)
+  
+  # Scraping configuration
+  scraping:
+    enhanced_scraper: true
+    progress_save: true
+    log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+    delays:
+      min: 3.0  # Minimum delay between requests (seconds)
+      max: 12.0  # Maximum delay between requests (seconds)
+      chunk_size: 50  # Number of matches per chunk
+      chunk_break: 300.0  # Break between chunks (seconds)
+  
+  # Collection steps configuration
+  steps:
+    team_mapping:
+      enabled: true
+      skip_if_exists: false
+    
+    fixtures:
+      enabled: true
+      skip_if_exists: false
+    
+    wages:
+      enabled: true
+      skip_if_exists: false
+      generate_summary: true
+    
+    match_stats:
+      enabled: true
+      skip_if_exists: false
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file: "data_collection.log"

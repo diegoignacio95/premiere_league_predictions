@@ -1,0 +1,58 @@
+# Testing Data Collection Configuration
+# Use this configuration for quick testing and validation
+
+data_collection:
+  # Environment configuration
+  environment: "dev"
+  
+  # Single season for quick testing
+  seasons:
+    - "2024-2025"
+  
+  # Output configuration
+  output:
+    formats: ["json"]  # JSON only for faster testing
+    base_path: "../../data"
+  
+  # Data filtering options (very restrictive for quick testing)
+  filters:
+    teams: ["Arsenal", "Liverpool"]  # Just two teams
+    competitions: ["Premier League"]
+    seasons: null
+    max_matches: 10  # Very limited for quick validation
+  
+  # Scraping configuration (minimal delays for testing)
+  scraping:
+    enhanced_scraper: false  # Simpler scraping for testing
+    progress_save: false  # No progress saving for quick tests
+    log_level: "DEBUG"
+    delays:
+      min: 0.5
+      max: 1.0
+      chunk_size: 5
+      chunk_break: 10.0
+  
+  # Collection steps configuration
+  steps:
+    team_mapping:
+      enabled: true
+      skip_if_exists: true
+    
+    fixtures:
+      enabled: true
+      skip_if_exists: true
+    
+    wages:
+      enabled: false  # Skip wages for quick testing
+      skip_if_exists: true
+      generate_summary: false
+    
+    match_stats:
+      enabled: true
+      skip_if_exists: false
+
+# Logging configuration
+logging:
+  level: "DEBUG"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file: "data_collection_testing.log"

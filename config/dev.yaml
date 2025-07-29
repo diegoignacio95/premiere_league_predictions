@@ -1,0 +1,59 @@
+# Development Data Collection Configuration
+# Use this configuration for development and testing
+
+data_collection:
+  # Environment configuration
+  environment: "dev"
+  
+  # Limited seasons for faster development
+  seasons:
+    - "2023-2024"
+    - "2024-2025"
+  
+  # Output configuration
+  output:
+    formats: ["json", "csv"]
+    base_path: "../../data"
+  
+  # Data filtering options (more restrictive for development)
+  filters:
+    teams: ["Arsenal", "Manchester City", "Liverpool"]  # Limited teams for faster testing
+    competitions: ["Premier League"]
+    seasons: null  # Use all seasons defined above
+    max_matches: 100  # Limit for faster testing
+  
+  # Scraping configuration (faster settings for development)
+  scraping:
+    enhanced_scraper: true
+    progress_save: true
+    log_level: "DEBUG"  # More verbose logging for development
+    delays:
+      min: 1.0  # Faster for development (be respectful to servers)
+      max: 3.0
+      chunk_size: 20  # Smaller chunks for faster feedback
+      chunk_break: 60.0  # Shorter breaks
+  
+  # Collection steps configuration
+  steps:
+    team_mapping:
+      enabled: true
+      skip_if_exists: true  # Skip if already exists to speed up development
+    
+    fixtures:
+      enabled: true
+      skip_if_exists: true
+    
+    wages:
+      enabled: false  # Often skip wages in development due to limited availability
+      skip_if_exists: true
+      generate_summary: true
+    
+    match_stats:
+      enabled: true
+      skip_if_exists: false
+
+# Logging configuration
+logging:
+  level: "DEBUG"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file: "data_collection_dev.log"
