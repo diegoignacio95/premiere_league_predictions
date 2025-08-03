@@ -1,0 +1,962 @@
+[
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Possession",
+    "stat_value":"54%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Possession",
+    "stat_value":"46%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"77%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"78%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Shots on Target",
+    "stat_value":"45%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Shots on Target",
+    "stat_value":"45%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Saves",
+    "stat_value":"80%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Saves",
+    "stat_value":"60%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Fouls",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Fouls",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Corners",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Corners",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Crosses",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Crosses",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Touches",
+    "stat_value":"655"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Touches",
+    "stat_value":"591"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Tackles",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Tackles",
+    "stat_value":"23"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Interceptions",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Interceptions",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Aerials Won",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Aerials Won",
+    "stat_value":"21"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Clearances",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Clearances",
+    "stat_value":"28"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Offsides",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Goal Kicks",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Goal Kicks",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Throw Ins",
+    "stat_value":"21"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Throw Ins",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Tottenham",
+    "stat_name":"Long Balls",
+    "stat_value":"54"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/eebe09b9\/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League",
+    "team_name":"Brighton",
+    "stat_name":"Long Balls",
+    "stat_value":"73"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"51%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Possession",
+    "stat_value":"49%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"81%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"79%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"58%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Shots on Target",
+    "stat_value":"4%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"0%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Saves",
+    "stat_value":"85%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Fouls",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Corners",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Crosses",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"600"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Touches",
+    "stat_value":"562"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"27"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Tackles",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Interceptions",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Aerials Won",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Clearances",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Offsides",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Throw Ins",
+    "stat_value":"29"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"62"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5ce15b58\/Leeds-United-Manchester-City-October-3-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Long Balls",
+    "stat_value":"46"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Possession",
+    "stat_value":"68%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Possession",
+    "stat_value":"32%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"86%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"74%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Shots on Target",
+    "stat_value":"63%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Shots on Target",
+    "stat_value":"33%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Saves",
+    "stat_value":"50%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Saves",
+    "stat_value":"60%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Fouls",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Fouls",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Corners",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Corners",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Crosses",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Crosses",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Touches",
+    "stat_value":"742"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Touches",
+    "stat_value":"419"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Tackles",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Tackles",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Interceptions",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Interceptions",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Aerials Won",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Aerials Won",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Clearances",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Clearances",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Goal Kicks",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Throw Ins",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Throw Ins",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Long Balls",
+    "stat_value":"58"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/27966ef3\/Manchester-City-Porto-October-21-2020-Champions-League",
+    "team_name":"Porto",
+    "stat_name":"Long Balls",
+    "stat_value":"59"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Possession",
+    "stat_value":"31%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Possession",
+    "stat_value":"69%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"67%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"88%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Shots on Target",
+    "stat_value":"33%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Shots on Target",
+    "stat_value":"50%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Saves",
+    "stat_value":"85%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Saves",
+    "stat_value":"50%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Fouls",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Fouls",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Corners",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Corners",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Crosses",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Crosses",
+    "stat_value":"23"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Touches",
+    "stat_value":"452"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Touches",
+    "stat_value":"897"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Tackles",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Tackles",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Interceptions",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Aerials Won",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Aerials Won",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Clearances",
+    "stat_value":"30"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Clearances",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Goal Kicks",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Throw Ins",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Throw Ins",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"West Ham",
+    "stat_name":"Long Balls",
+    "stat_value":"83"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/2b0c0eca\/West-Ham-United-Manchester-City-October-24-2020-Premier-League",
+    "team_name":"Manchester City",
+    "stat_name":"Long Balls",
+    "stat_value":"43"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Possession",
+    "stat_value":"36%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Possession",
+    "stat_value":"64%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"82%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"91%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Shots on Target",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Shots on Target",
+    "stat_value":"50%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Saves",
+    "stat_value":"25%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Fouls",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Fouls",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Corners",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Corners",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Crosses",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Crosses",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Touches",
+    "stat_value":"565"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Touches",
+    "stat_value":"946"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Tackles",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Tackles",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Interceptions",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Interceptions",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Aerials Won",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Aerials Won",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Clearances",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Clearances",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Offsides",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Offsides",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Goal Kicks",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Throw Ins",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Throw Ins",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Marseille",
+    "stat_name":"Long Balls",
+    "stat_value":"63"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/08a2f03b\/Marseille-Manchester-City-October-27-2020-Champions-League",
+    "team_name":"Manchester City",
+    "stat_name":"Long Balls",
+    "stat_value":"59"
+  }
+]
