@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Football Predictions Project — Presentation</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#ff7a18;--muted:#9aa6b2;--glass:rgba(255,255,255,0.04)}
+    html,body{height:100%;margin:0;font-family:Inter,Segoe UI,Roboto, Helvetica, Arial,sans-serif;background:linear-gradient(180deg,#071025 0%,#081225 60%);color:#e6eef6}
+    .stage{width:100%;height:100%;display:flex;align-items:center;justify-content:center;padding:32px;box-sizing:border-box}
+    .slide{width:1100px;max-width:95%;height:640px;background:linear-gradient(180deg,var(--card),#07101a);border-radius:14px;padding:40px;box-sizing:border-box;box-shadow:0 10px 40px rgba(2,6,23,0.7);position:relative;display:none}
+    .slide.active{display:block}
+    header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px}
+    .title{font-size:22px;font-weight:700;color:#fff}
+    .subtitle{font-size:13px;color:var(--muted)}
+    .content{display:flex;gap:28px;height:calc(100% - 78px)}
+    .col{flex:1;overflow:auto;padding-right:8px}
+    .col h3{margin:0 0 8px 0}
+    ul{margin:8px 0 0 18px;color:var(--muted)}
+    code{background:var(--glass);padding:6px;border-radius:6px;color:#cfe8ff;font-family:Menlo,Monaco,monospace;font-size:13px}
+    .footer{position:absolute;left:40px;right:40px;bottom:18px;display:flex;justify-content:space-between;color:var(--muted);font-size:12px}
+    .big{font-size:36px;font-weight:800}
+    .small{font-size:14px;color:var(--muted)}
+    .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.02);color:var(--muted);font-size:12px}
+    .stats{display:flex;gap:14px;flex-wrap:wrap}
+    .stat{background:rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:140px}
+    nav.controls{position:absolute;top:20px;right:24px;display:flex;gap:8px}
+    button.btn{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted);padding:8px 10px;border-radius:8px;cursor:pointer}
+    .notes{margin-top:12px;color:var(--muted);font-size:13px}
+    /* responsive */
+    @media (max-width:900px){.slide{height:80vh;padding:20px}.content{flex-direction:column}.big{font-size:28px}}
+  </style>
+</head>
+<body>
+  <div class="stage">
+    <!-- Slide 1: Cover -->
+    <section class="slide active" data-title="Cover">
+      <header>
+        <div>
+          <div class="title">Football Predictions Project</div>
+          <div class="subtitle">Technical overview — Production-ready ML pipeline for match outcome &amp; goal-difference prediction</div>
+        </div>
+        <div class="pill">Version 3.0 • Last updated: 2025-08-12</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <div class="big">Predicting Outcomes for the Premier League</div>
+          <p class="small">Full end-to-end system: scraping, feature engineering, model training, evaluation and deployment.</p>
+          <div style="margin-top:18px" class="stats">
+            <div class="stat"><div style="font-weight:700">5,700+</div><div class="small">matches collected</div></div>
+            <div class="stat"><div style="font-weight:700">49.2%</div><div class="small">LightGBM test accuracy</div></div>
+            <div class="stat"><div style="font-weight:700">MAE 1.39</div><div class="small">XGBoost goal-diff reg.</div></div>
+          </div>
+        </div>
+        <div class="col">
+          <h3>Key capabilities</h3>
+          <ul>
+            <li>Automated FBRef scraping (match stats, fixtures, wages)</li>
+            <li>Advanced feature engineering (rolling form, opponent features, wage diffs)</li>
+            <li>Production-grade ML: LightGBM (classification), XGBoost (regression)</li>
+            <li>Configurable environments (dev/prod/test) + robust logging</li>
+          </ul>
+          <div class="notes">Use ← → or PageUp/PageDown to navigate. Press H for help.</div>
+        </div>
+      </div>
+      <div class="footer"><div>Presenter: Technical Team</div><div>Contact: see docs</div></div>
+    </section>
+
+    <!-- Slide 2: Architecture -->
+    <section class="slide" data-title="Technical Architecture">
+      <header>
+        <div class="title">Technical Architecture</div>
+        <div class="subtitle">Layered and modular — easy to extend</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Project Structure (high-level)</h3>
+          <ul>
+            <li><strong>config/</strong> — YAML per environment (prod/dev/test)</li>
+            <li><strong>data/</strong> — raw, processed, external (dev &amp; prod partitions)</li>
+            <li><strong>notebooks/</strong> — exploratory &amp; production notebooks</li>
+            <li><strong>scripts/</strong> — collectors, training, prediction utilities</li>
+            <li><strong>models/</strong> — stored model artifacts by competition</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Pipeline Layers</h3>
+          <ul>
+            <li><strong>Data collection</strong>: requests + BeautifulSoup, checkpointing, rate limiting</li>
+            <li><strong>Data processing</strong>: cleaning, rolling features, master dataset</li>
+            <li><strong>ML</strong>: LightGBM &amp; XGBoost, Optuna HPO, time-series CV</li>
+            <li><strong>Deployment</strong>: joblib models, CLI, future API/dashboard</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Architecture overview</div></div>
+    </section>
+
+    <!-- Slide 3: Data Pipeline -->
+    <section class="slide" data-title="Data Pipeline">
+      <header>
+        <div class="title">Data Pipeline</div>
+        <div class="subtitle">From FBRef scraping to master dataset</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Collection layer</h3>
+          <ul>
+            <li>BeautifulSoup + requests (no browser automation)</li>
+            <li>Rate limits &amp; UA rotation, exponential backoff</li>
+            <li>Outputs: JSON / CSV / Parquet</li>
+            <li>Collectors: fixtures, match_stats, wages, team_id_mapper</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Processing layer</h3>
+          <ul>
+            <li>Cleaning &amp; validation (missing values, types)</li>
+            <li>Feature engineering: 5-match rolling averages, rest days, opponent features</li>
+            <li>Master dataset assembly and consistency checks</li>
+            <li>Data schema with 64+ stats + engineered fields</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Data pipeline details</div></div>
+    </section>
+
+    <!-- Slide 4: Core Components -->
+    <section class="slide" data-title="Core Components">
+      <header>
+        <div class="title">Core Components</div>
+        <div class="subtitle">Collectors, mappers, orchestration</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Collectors &amp; Mappers</h3>
+          <ul>
+            <li><strong>team_id_mapper.py</strong> — canonicalizes team names across sources</li>
+            <li><strong>fixtures_collector.py</strong> — scrapes fixtures &amp; results</li>
+            <li><strong>match_stats_collector.py</strong> — detailed match stats</li>
+            <li><strong>wages_collector.py</strong> — player -> aggregated team wages</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Orchestration</h3>
+          <ul>
+            <li><strong>run_all_collectors.py</strong> — coordinates and checkpoints pipeline runs</li>
+            <li>Logging, error reporting, and retry logic built-in</li>
+            <li>Configurable via YAML per environment</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Core components</div></div>
+    </section>
+
+    <!-- Slide 5: Machine Learning -->
+    <section class="slide" data-title="Machine Learning">
+      <header>
+        <div class="title">Machine Learning</div>
+        <div class="subtitle">Models, features &amp; evaluation</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Primary model — LightGBM (v2)</h3>
+          <ul>
+            <li>Task: Multi-class (Win/Draw/Loss)</li>
+            <li>Features: 192 selected features (form, wages, context)</li>
+            <li>HPO: Optuna (100 trials), 5-fold stratified CV</li>
+            <li>Performance: Test acc 49.21%; CV acc 55.86%</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Experimental — XGBoost RandomForest (v3)</h3>
+          <ul>
+            <li>Task: Goal difference regression (capped -3..+3)</li>
+            <li>Metrics: MAE 1.39, R² 0.068</li>
+            <li>Classification via thresholding: ~47.4% accuracy</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Model summary</div></div>
+    </section>
+
+    <!-- Slide 6: Top Features -->
+    <section class="slide" data-title="Top Features">
+      <header>
+        <div class="title">Top Features — LightGBM</div>
+        <div class="subtitle">Most important signals</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <ol style="color:var(--muted);">
+            <li>avg_wage_dollars_diff</li>
+            <li>max_wage_dollars_diff</li>
+            <li>total_wage_bill_dollars_diff</li>
+            <li>min_wage_dollars_diff</li>
+            <li>venue (home/away)</li>
+            <li>age_mean_diff</li>
+            <li>avg_wage_dollars</li>
+            <li>opp_avg_wage_dollars</li>
+            <li>Touches_favor_form_avg</li>
+            <li>Tackles_favor_form_avg</li>
+          </ol>
+        </div>
+        <div class="col">
+          <h3>Notes</h3>
+          <p class="small">Wage-related features dominate importance — financial resources are a strong predictor. Draws remain difficult to predict (low recall).</p>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Feature importance</div></div>
+    </section>
+
+    <!-- Slide 7: Config & Usage -->
+    <section class="slide" data-title="Configuration & Usage">
+      <header>
+        <div class="title">Config &amp; Usage</div>
+        <div class="subtitle">YAML-driven workflows</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Environments</h3>
+          <ul>
+            <li><strong>prod.yaml</strong> — full seasons, conservative delays</li>
+            <li><strong>dev.yaml</strong> — limited teams, faster scraping</li>
+            <li><strong>testing.yaml</strong> — minimal dataset for validation</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Example commands</h3>
+          <pre><code># Production data collection
+python run_all_collectors_config.py --config prod
+
+# Quick testing
+python run_all_collectors_config.py --config testing</code></pre>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Run examples</div></div>
+    </section>
+
+    <!-- Slide 8: Performance & Resources -->
+    <section class="slide" data-title="Performance & Resources">
+      <header>
+        <div class="title">Performance &amp; Resources</div>
+        <div class="subtitle">Benchmarks &amp; system needs</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Performance</h3>
+          <ul>
+            <li>Data collection: ~500–1000 matches/hour (rate-limited)</li>
+            <li>Training HPO time: ~15–30 minutes</li>
+            <li>Inference: &lt;1 ms per prediction</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>System requirements</h3>
+          <ul>
+            <li>Python 3.8+</li>
+            <li>8GB+ RAM recommended</li>
+            <li>Storage: 5GB+ for historical data</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Perf &amp; resources</div></div>
+    </section>
+
+    <!-- Slide 9: Deployment & Roadmap -->
+    <section class="slide" data-title="Deployment & Roadmap">
+      <header>
+        <div class="title">Deployment &amp; Roadmap</div>
+        <div class="subtitle">Next steps and long-term vision</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Production workflow</h3>
+          <ol style="color:var(--muted);">
+            <li>Collect data</li>
+            <li>Create master dataset</li>
+            <li>Train &amp; optimize models</li>
+            <li>Generate predictions</li>
+            <li>Monitor + retrain</li>
+          </ol>
+        </div>
+        <div class="col">
+          <h3>Roadmap</h3>
+          <ul>
+            <li>Real-time/live match data</li>
+            <li>Additional leagues (LaLiga, Serie A)</li>
+            <li>Player-level features &amp; injury data</li>
+            <li>API &amp; interactive dashboard</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer"><div></div><div>Roadmap</div></div>
+    </section>
+
+    <!-- Slide 10: Troubleshooting & Contact -->
+    <section class="slide" data-title="Troubleshooting">
+      <header>
+        <div class="title">Troubleshooting &amp; Contact</div>
+        <div class="subtitle">Common issues and support</div>
+      </header>
+      <div class="content">
+        <div class="col">
+          <h3>Common issues</h3>
+          <ul>
+            <li>Rate limiting — increase delays in config</li>
+            <li>Website structure changes — update selectors</li>
+            <li>Memory issues — batch processing</li>
+            <li>Poor model performance — revisit features &amp; data quality</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Support</h3>
+          <p class="small">Refer to the project notebooks and scripts for full implementation. For questions, open an issue in the repo or contact the ML lead.</p>
+        </div>
+      </div>
+      <div class="footer"><div>Documentation v1.0</div><div>Project Team</div></div>
+    </section>
+
+    <nav class="controls">
+      <button class="btn" id="prev">◀ Prev</button>
+      <button class="btn" id="next">Next ▶</button>
+    </nav>
+  </div>
+
+  <script>
+    (function(){
+      const slides = Array.from(document.querySelectorAll('.slide'));
+      let idx = 0;
+      const show = (i)=>{
+        slides.forEach(s=>s.classList.remove('active'));
+        slides[i].classList.add('active');
+        document.title = slides[i].dataset.title + ' — Presentation';
+      }
+      document.getElementById('prev').onclick = ()=>{ idx = Math.max(0, idx-1); show(idx); }
+      document.getElementById('next').onclick = ()=>{ idx = Math.min(slides.length-1, idx+1); show(idx); }
+      document.addEventListener('keydown', (e)=>{
+        if(e.key==='ArrowRight' || e.key==='PageDown') { idx = Math.min(slides.length-1, idx+1); show(idx); }
+        if(e.key==='ArrowLeft' || e.key==='PageUp') { idx = Math.max(0, idx-1); show(idx); }
+        if(e.key.toLowerCase()==='h') alert('Navigation: ← → or PageUp/PageDown. Use buttons on top-right.');
+      });
+      // touch support
+      let startX = null;
+      document.addEventListener('touchstart', e=> startX = e.touches[0].clientX );
+      document.addEventListener('touchend', e=>{ if(startX==null) return; const endX = e.changedTouches[0].clientX; if(startX - endX > 40) { idx = Math.min(slides.length-1, idx+1); show(idx); } else if(endX - startX > 40) { idx = Math.max(0, idx-1); show(idx); } startX = null; });
+      show(idx);
+    })();
+  </script>
+</body>
+</html>
