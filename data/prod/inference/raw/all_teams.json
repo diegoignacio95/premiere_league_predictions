@@ -1,0 +1,102 @@
+{
+  "Arsenal": {
+    "team_name": "Arsenal",
+    "team_id": "18bb7c10",
+    "reference": "/en/squads/18bb7c10/Arsenal-Stats"
+  },
+  "Aston Villa": {
+    "team_name": "Aston Villa",
+    "team_id": "8602292d",
+    "reference": "/en/squads/8602292d/Aston-Villa-Stats"
+  },
+  "Bournemouth": {
+    "team_name": "Bournemouth",
+    "team_id": "4ba7cbea",
+    "reference": "/en/squads/4ba7cbea/Bournemouth-Stats"
+  },
+  "Brentford": {
+    "team_name": "Brentford",
+    "team_id": "cd051869",
+    "reference": "/en/squads/cd051869/Brentford-Stats"
+  },
+  "Brighton": {
+    "team_name": "Brighton",
+    "team_id": "d07537b9",
+    "reference": "/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats"
+  },
+  "Burnley": {
+    "team_name": "Burnley",
+    "team_id": "943e8050",
+    "reference": "/en/squads/943e8050/Burnley-Stats"
+  },
+  "Chelsea": {
+    "team_name": "Chelsea",
+    "team_id": "cff3d9bb",
+    "reference": "/en/squads/cff3d9bb/Chelsea-Stats"
+  },
+  "Crystal Palace": {
+    "team_name": "Crystal Palace",
+    "team_id": "47c64c55",
+    "reference": "/en/squads/47c64c55/Crystal-Palace-Stats"
+  },
+  "Everton": {
+    "team_name": "Everton",
+    "team_id": "d3fd31cc",
+    "reference": "/en/squads/d3fd31cc/Everton-Stats"
+  },
+  "Fulham": {
+    "team_name": "Fulham",
+    "team_id": "fd962109",
+    "reference": "/en/squads/fd962109/Fulham-Stats"
+  },
+  "Leeds United": {
+    "team_name": "Leeds United",
+    "team_id": "5bfb9659",
+    "reference": "/en/squads/5bfb9659/Leeds-United-Stats"
+  },
+  "Liverpool": {
+    "team_name": "Liverpool",
+    "team_id": "822bd0ba",
+    "reference": "/en/squads/822bd0ba/Liverpool-Stats"
+  },
+  "Manchester City": {
+    "team_name": "Manchester City",
+    "team_id": "b8fd03ef",
+    "reference": "/en/squads/b8fd03ef/Manchester-City-Stats"
+  },
+  "Manchester Utd": {
+    "team_name": "Manchester Utd",
+    "team_id": "19538871",
+    "reference": "/en/squads/19538871/Manchester-United-Stats"
+  },
+  "Newcastle Utd": {
+    "team_name": "Newcastle Utd",
+    "team_id": "b2b47a98",
+    "reference": "/en/squads/b2b47a98/Newcastle-United-Stats"
+  },
+  "Nott'ham Forest": {
+    "team_name": "Nott'ham Forest",
+    "team_id": "e4a775cb",
+    "reference": "/en/squads/e4a775cb/Nottingham-Forest-Stats"
+  },
+  "Sunderland": {
+    "team_name": "Sunderland",
+    "team_id": "8ef52968",
+    "reference": "/en/squads/8ef52968/Sunderland-Stats"
+  },
+  "Tottenham": {
+    "team_name": "Tottenham",
+    "team_id": "361ca564",
+    "reference": "/en/squads/361ca564/Tottenham-Hotspur-Stats"
+  },
+  "West Ham": {
+    "team_name": "West Ham",
+    "team_id": "7c21e445",
+    "reference": "/en/squads/7c21e445/West-Ham-United-Stats"
+  },
+  "Wolves": {
+    "team_name": "Wolves",
+    "team_id": "8cec06e1",
+    "reference": "/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats"
+  }
+}

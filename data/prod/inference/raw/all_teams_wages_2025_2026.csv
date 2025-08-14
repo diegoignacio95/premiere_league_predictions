@@ -1,0 +1,623 @@
+player,nationality,position,age,weekly_wages,annual_wages,notes,team_name,team_id,season
+Kai Havertz,de GER,CF,26,"£ 280,000 (€ 321,368, $371,011)","£ 14,560,000 (€ 16,711,124, $19,292,582)",,Arsenal,18bb7c10,2025-2026
+Gabriel Jesus,br BRA,CF,28,"£ 265,000 (€ 304,152, $351,136)","£ 13,780,000 (€ 15,815,885, $18,259,051)",,Arsenal,18bb7c10,2025-2026
+Declan Rice,eng ENG,CM,26,"£ 240,000 (€ 275,458, $318,010)","£ 12,480,000 (€ 14,323,820, $16,536,499)",,Arsenal,18bb7c10,2025-2026
+Martin Ødegaard,no NOR,AM,26,"£ 240,000 (€ 275,458, $318,010)","£ 12,480,000 (€ 14,323,820, $16,536,499)",,Arsenal,18bb7c10,2025-2026
+Viktor Gyökeres,se SWE,CF,27,"£ 200,000 (€ 229,548, $265,008)","£ 10,400,000 (€ 11,936,517, $13,780,416)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Bukayo Saka,eng ENG,RW,23,"£ 195,000 (€ 223,810, $258,383)","£ 10,140,000 (€ 11,638,104, $13,435,906)",,Arsenal,18bb7c10,2025-2026
+William Saliba,fr FRA,CB,24,"£ 190,000 (€ 218,071, $251,758)","£ 9,880,000 (€ 11,339,691, $13,091,395)",,Arsenal,18bb7c10,2025-2026
+Gabriel Martinelli,br BRA,LW,24,"£ 180,000 (€ 206,594, $238,507)","£ 9,360,000 (€ 10,742,865, $12,402,374)",,Arsenal,18bb7c10,2025-2026
+Oleksandr Zinchenko,ua UKR,LB,28,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Arsenal,18bb7c10,2025-2026
+Ben White,eng ENG,RB,27,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Gabriel Magalhães,br BRA,CB,27,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Mikel Merino,es ESP,CM,29,"£ 130,000 (€ 149,206, $172,255)","£ 6,760,000 (€ 7,758,736, $8,957,270)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Riccardo Calafiori,it ITA,LB,23,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Arsenal,18bb7c10,2025-2026
+Takehiro Tomiyasu,jp JPN,RB,26,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Arsenal,18bb7c10,2025-2026
+Reiss Nelson,eng ENG,RW,25,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Arsenal,18bb7c10,2025-2026
+David Raya,es ESP,GK,29,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Jurriën Timber,nl NED,RB,24,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,Arsenal,18bb7c10,2025-2026
+Leandro Trossard,be BEL,LW,30,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,Arsenal,18bb7c10,2025-2026
+Martín Zubimendi,es ESP,DM,26,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Arsenal,18bb7c10,2025-2026
+Jakub Kiwior,pl POL,CB,25,"£ 58,000 (€ 66,569, $76,852)","£ 3,016,000 (€ 3,461,590, $3,996,321)",,Arsenal,18bb7c10,2025-2026
+Albert Sambi Lokonga,be BEL,CM,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Fabio Vieira,pt POR,AM,25,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Arsenal,18bb7c10,2025-2026
+Myles Lewis-Skelly,,LB,18,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Karl Jakob Hein,ee EST,GK,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Ethan Nwaneri,,RW,18,"£ 6,000 (€ 6,886, $7,950)","£ 312,000 (€ 358,096, $413,412)",Unverified estimation,Arsenal,18bb7c10,2025-2026
+Noni Madueke,,RW,23,,,,Arsenal,18bb7c10,2025-2026
+Kepa Arrizabalaga,es ESP,GK,30,,,,Arsenal,18bb7c10,2025-2026
+Youri Tielemans,be BEL,CM,28,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Aston Villa,8602292d,2025-2026
+Emiliano Martínez,ar ARG,GK,32,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Boubacar Kamara,fr FRA,DM,25,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Donyell Malen,nl NED,RW,26,"£ 140,000 (€ 160,684, $185,506)","£ 7,280,000 (€ 8,355,562, $9,646,291)",,Aston Villa,8602292d,2025-2026
+Amadou Onana,be BEL,DM,23,"£ 140,000 (€ 160,684, $185,506)","£ 7,280,000 (€ 8,355,562, $9,646,291)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Ollie Watkins,eng ENG,CF,29,"£ 130,000 (€ 149,206, $172,255)","£ 6,760,000 (€ 7,758,736, $8,957,270)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Philippe Coutinho,br BRA,AM,33,"£ 125,000 (€ 143,468, $165,630)","£ 6,500,000 (€ 7,460,323, $8,612,760)",,Aston Villa,8602292d,2025-2026
+Lucas Digne,fr FRA,LB,31,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Aston Villa,8602292d,2025-2026
+John McGinn,sct SCO,CM,30,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Leon Bailey,jm JAM,RW,27,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Tyrone Mings,eng ENG,CB,32,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Ian Maatsen,nl NED,LB,23,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Pau Torres,es ESP,CB,28,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Leander Dendoncker,be BEL,DM,30,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Matty Cash,pl POL,RB,27,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Emi Buendía,ar ARG,AM,28,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Aston Villa,8602292d,2025-2026
+Ezri Konsa,eng ENG,CB,27,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Morgan Rogers,eng ENG,AM,22,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Jacob Ramsey,eng ENG,LM,24,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",,Aston Villa,8602292d,2025-2026
+Ross Barkley,eng ENG,CM,31,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Samuel Iling-Junior,eng ENG,LW,21,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Álex Moreno,es ESP,LB,32,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",,Aston Villa,8602292d,2025-2026
+Lewis Dobbin,,LW,22,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Andrés García,,RB,22,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Joe Gauci,,GK,24,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Lamare Bogarde,,DM,21,"£ 8,000 (€ 9,182, $10,600)","£ 416,000 (€ 477,461, $551,217)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Filip Marschall,,GK,22,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Aston Villa,8602292d,2025-2026
+Marco Bizot,nl NED,GK,34,,,,Aston Villa,8602292d,2025-2026
+Enzo Barrenechea,,DM,24,,,,Aston Villa,8602292d,2025-2026
+Yasin Özcan,,CB,19,,,,Aston Villa,8602292d,2025-2026
+Evanilson,br BRA,CF,25,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Justin Kluivert,nl NED,AM,26,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Antoine Semenyo,gh GHA,LW,25,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Ryan Christie,sct SCO,DM,30,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",,Bournemouth,4ba7cbea,2025-2026
+Luis Sinisterra,co COL,LW,26,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Tyler Adams,us USA,DM,26,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Lewis Cook,eng ENG,CM,28,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+David Brooks,wls WAL,RW,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",,Bournemouth,4ba7cbea,2025-2026
+Neto,br BRA,GK,35,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Marcos Senesi,ar ARG,CB,28,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Ilya Zabarnyi,,CB,22,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Philip Billing,dk DEN,CM,29,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Bournemouth,4ba7cbea,2025-2026
+Hamed Junior Traorè,ci CIV,AM,25,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Bournemouth,4ba7cbea,2025-2026
+Alex Scott,eng ENG,CM,21,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Adam Smith,eng ENG,RB,34,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Dango Ouattara,bf BFA,LW,23,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Chris Mepham,wls WAL,CB,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Marcus Tavernier,eng ENG,LW,26,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Romain Faivre,fr FRA,RM,26,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Julian Araujo,mx MEX,RB,23,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Joe Rothwell,eng ENG,CM,30,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Eli Junior Kroupi,,CF,19,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Enes Ünal,tr TUR,CF,28,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Julio Soler,,LB,20,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+James Hill,eng ENG,CB,23,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Matai Akinmboni,us USA,CB,18,"£ 4,000 (€ 4,591, $5,300)","£ 208,000 (€ 238,730, $275,608)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Will Dennis,eng ENG,GK,24,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",,Bournemouth,4ba7cbea,2025-2026
+Max Kinsey,,CB,20,"£ 2,000 (€ 2,295, $2,650)","£ 104,000 (€ 119,365, $137,804)",Unverified estimation,Bournemouth,4ba7cbea,2025-2026
+Đorđe Petrović,rs SRB,GK,25,,,,Bournemouth,4ba7cbea,2025-2026
+Alex Paulsen,,GK,22,,,,Bournemouth,4ba7cbea,2025-2026
+Adrien Truffert,fr FRA,LB,23,,,,Bournemouth,4ba7cbea,2025-2026
+Aaron Hickey,sct SCO,RB,23,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",,Brentford,cd051869,2025-2026
+Igor Thiago,,CF,24,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brentford,cd051869,2025-2026
+Mathias Jensen,dk DEN,CM,29,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brentford,cd051869,2025-2026
+Keane Lewis-Potter,eng ENG,LB,24,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brentford,cd051869,2025-2026
+Fabio Carvalho,pt POR,AM,22,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Brentford,cd051869,2025-2026
+Frank Onyeka,ng NGA,CM,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Brentford,cd051869,2025-2026
+Kristoffer Ajer,no NOR,CB,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Brentford,cd051869,2025-2026
+Christian Nørgaard,dk DEN,DM,31,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Brentford,cd051869,2025-2026
+Rico Henry,eng ENG,LB,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Brentford,cd051869,2025-2026
+Mads Roerslev,dk DEN,RB,26,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Brentford,cd051869,2025-2026
+Mikkel Damsgaard,dk DEN,AM,24,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Brentford,cd051869,2025-2026
+Ethan Pinnock,jm JAM,CB,32,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Brentford,cd051869,2025-2026
+Vitaly Janelt,de GER,DM,27,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Brentford,cd051869,2025-2026
+Nathan Collins,ie IRL,CB,24,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Brentford,cd051869,2025-2026
+Gustavo Nunes,,LW,19,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Brentford,cd051869,2025-2026
+Yoane Wissa,cd COD,CF,28,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Brentford,cd051869,2025-2026
+Sepp van den Berg,nl NED,CB,23,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Brentford,cd051869,2025-2026
+Yegor Yarmolyuk,,CM,21,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brentford,cd051869,2025-2026
+Yunus Emre Konak,,DM,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brentford,cd051869,2025-2026
+Jayden Meghoma,,LB,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brentford,cd051869,2025-2026
+Kevin Schade,de GER,LW,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Brentford,cd051869,2025-2026
+Hákon Rafn Valdimarsson,,GK,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Brentford,cd051869,2025-2026
+Ellery Balcombe,eng ENG,GK,25,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Brentford,cd051869,2025-2026
+Matthew Cox,,GK,22,"£ 7,000 (€ 8,034, $9,275)","£ 364,000 (€ 417,778, $482,315)",Unverified estimation,Brentford,cd051869,2025-2026
+Myles Peart-Harris,eng ENG,LW,22,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brentford,cd051869,2025-2026
+Ryan Trevitt,,CM,22,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brentford,cd051869,2025-2026
+Ji-soo Kim,,CB,20,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brentford,cd051869,2025-2026
+Paris Maghoma,,CM,24,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Brentford,cd051869,2025-2026
+Michael Kayode,,RB,20,,,,Brentford,cd051869,2025-2026
+Jordan Henderson,eng ENG,DM,35,,,,Brentford,cd051869,2025-2026
+Romelle Donovan,,RW,18,,,,Brentford,cd051869,2025-2026
+Caoimhín Kelleher,ie IRL,GK,26,,,,Brentford,cd051869,2025-2026
+Ferdi Kadioglu,tr TUR,LB,25,"£ 87,500 (€ 100,427, $115,941)","£ 4,550,000 (€ 5,222,226, $6,028,932)",,Brighton,d07537b9,2025-2026
+Kaoru Mitoma,jp JPN,LW,28,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",,Brighton,d07537b9,2025-2026
+Lewis Dunk,eng ENG,CB,33,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Brighton,d07537b9,2025-2026
+Georginio Rutter,fr FRA,CF,23,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Brighton,d07537b9,2025-2026
+Mats Wieffer,nl NED,DM,25,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Brighton,d07537b9,2025-2026
+James Milner,eng ENG,CM,39,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Brighton,d07537b9,2025-2026
+Danny Welbeck,eng ENG,CF,34,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Brighton,d07537b9,2025-2026
+Adam Webster,eng ENG,CB,30,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",Unverified estimation,Brighton,d07537b9,2025-2026
+Matt O'Riley,dk DEN,CM,24,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+Joël Veltman,nl NED,RB,33,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+Brajan Gruda,,RW,21,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+Solly March,eng ENG,RW,30,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+João Pedro,br BRA,CF,23,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+Jan Paul van Hecke,nl NED,CB,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Brighton,d07537b9,2025-2026
+Igor,br BRA,CB,27,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Brighton,d07537b9,2025-2026
+Tariq Lamptey,gh GHA,RB,24,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Brighton,d07537b9,2025-2026
+Ibrahim Osman,,LW,20,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Brighton,d07537b9,2025-2026
+Yankuba Minteh,,RW,20,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Brighton,d07537b9,2025-2026
+Bart Verbruggen,nl NED,GK,22,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Brighton,d07537b9,2025-2026
+Diego Gómez,,CM,22,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Brighton,d07537b9,2025-2026
+Facundo Buonanotte,,AM,20,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Brighton,d07537b9,2025-2026
+Abdallah Sima,sn SEN,LW,24,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Brighton,d07537b9,2025-2026
+Kjell Scherpen,nl NED,GK,25,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Brighton,d07537b9,2025-2026
+Jeremy Sarmiento,ec ECU,LW,23,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Brighton,d07537b9,2025-2026
+Jason Steele,eng ENG,GK,34,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Brighton,d07537b9,2025-2026
+Stefanos Tzimas,,CF,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Julio Enciso,py PAR,AM,21,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Andrew Moran,,AM,21,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Eiran Cashin,ie IRL,CB,23,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Tom McGill,,GK,25,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Malick Yalcouyé,,LM,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Brighton,d07537b9,2025-2026
+Simon Adingra,ci CIV,LW,23,"£ 12,500 (€ 14,347, $16,563)","£ 650,000 (€ 746,032, $861,276)",Unverified estimation,Brighton,d07537b9,2025-2026
+Carlos Baleba,,DM,21,"£ 12,500 (€ 14,347, $16,563)","£ 650,000 (€ 746,032, $861,276)",Unverified estimation,Brighton,d07537b9,2025-2026
+Amario Cozier-Duberry,,RW,20,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Brighton,d07537b9,2025-2026
+Jack Hinshelwood,,CM,20,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Brighton,d07537b9,2025-2026
+Yasin Ayari,,CM,21,"£ 8,000 (€ 9,182, $10,600)","£ 416,000 (€ 477,461, $551,217)",Unverified estimation,Brighton,d07537b9,2025-2026
+Odeluga Offiah,,RB,22,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brighton,d07537b9,2025-2026
+James Beadle,,GK,20,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brighton,d07537b9,2025-2026
+Carl Rushworth,eng ENG,GK,23,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Brighton,d07537b9,2025-2026
+Do-young Yoon,,RW,18,,,,Brighton,d07537b9,2025-2026
+Diego Coppola,it ITA,CB,21,,,,Brighton,d07537b9,2025-2026
+Tom Watson,,LW,19,,,,Brighton,d07537b9,2025-2026
+Charalampos Kostoulas,,CF,18,,,,Brighton,d07537b9,2025-2026
+Josh Cullen,ie IRL,CM,29,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Burnley,943e8050,2025-2026
+Joe Worrall,eng ENG,CB,28,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Burnley,943e8050,2025-2026
+Bashir Humphreys,,LB,22,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Burnley,943e8050,2025-2026
+Jaidon Anthony,eng ENG,LW,25,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Burnley,943e8050,2025-2026
+Lyle Foster,za RSA,CF,24,"£ 32,500 (€ 37,302, $43,064)","£ 1,690,000 (€ 1,939,684, $2,239,318)",Unverified estimation,Burnley,943e8050,2025-2026
+Zeki Amdouni,ch SUI,CF,24,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Burnley,943e8050,2025-2026
+Connor Roberts,wls WAL,RB,29,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Burnley,943e8050,2025-2026
+Marcus Edwards,eng ENG,RW,26,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Burnley,943e8050,2025-2026
+Aaron Ramsey,eng ENG,AM,22,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Burnley,943e8050,2025-2026
+Benson Manuel,ao ANG,RW,28,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Burnley,943e8050,2025-2026
+Mike Trésor,,LW,26,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Burnley,943e8050,2025-2026
+Hannibal,,AM,22,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Burnley,943e8050,2025-2026
+Hjalmar Ekdal,,CB,26,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Burnley,943e8050,2025-2026
+Ashley Barnes,eng ENG,CF,35,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Burnley,943e8050,2025-2026
+Luca Koleosho,,RW,20,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Burnley,943e8050,2025-2026
+Maxime Estève,fr FRA,CB,23,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Michael Obafemi,ie IRL,CF,24,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Lucas Pires,,LB,24,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Zian Flemming,nl NED,CF,26,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Josh Laurent,eng ENG,CM,30,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Hannes Delcroix,be BEL,CB,26,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Han-Noah Massengo,fr FRA,CM,23,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Burnley,943e8050,2025-2026
+Václav Hladký,cz CZE,GK,34,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Burnley,943e8050,2025-2026
+Etienne Green,eng ENG,GK,24,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Burnley,943e8050,2025-2026
+Darko Churlinov,mk MKD,LW,24,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Burnley,943e8050,2025-2026
+Andreas Hountondji,bj BEN,CF,22,"£ 8,500 (€ 9,756, $11,263)","£ 442,000 (€ 507,302, $585,668)",Unverified estimation,Burnley,943e8050,2025-2026
+Oliver Sonne,,RB,24,"£ 8,500 (€ 9,756, $11,263)","£ 442,000 (€ 507,302, $585,668)",Unverified estimation,Burnley,943e8050,2025-2026
+Jaydon Banel,,LW,20,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Burnley,943e8050,2025-2026
+Shurandy Sambo,,RB,23,"£ 6,000 (€ 6,886, $7,950)","£ 312,000 (€ 358,096, $413,412)",Unverified estimation,Burnley,943e8050,2025-2026
+Enock Agyei,,RW,20,"£ 4,000 (€ 4,591, $5,300)","£ 208,000 (€ 238,730, $275,608)",Unverified estimation,Burnley,943e8050,2025-2026
+Jordan Beyer,de GER,CB,25,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Burnley,943e8050,2025-2026
+Oluwaseun Adewumi,,AM,20,"£ 2,500 (€ 2,869, $3,313)","£ 130,000 (€ 149,206, $172,255)",Unverified estimation,Burnley,943e8050,2025-2026
+Owen Dodgson,,LB,22,"£ 2,500 (€ 2,869, $3,313)","£ 130,000 (€ 149,206, $172,255)",Unverified estimation,Burnley,943e8050,2025-2026
+Max Weiß,de GER,GK,21,,,,Burnley,943e8050,2025-2026
+Quilindschy Hartman,,LB,23,,,,Burnley,943e8050,2025-2026
+Axel Tuanzebe,cd COD,RB,27,,,,Burnley,943e8050,2025-2026
+Raheem Sterling,eng ENG,RW,30,"£ 325,000 (€ 373,016, $430,638)","£ 16,900,000 (€ 19,396,840, $22,393,176)",,Chelsea,cff3d9bb,2025-2026
+Reece James,eng ENG,RB,25,"£ 250,000 (€ 286,936, $331,260)","£ 13,000,000 (€ 14,920,646, $17,225,520)",,Chelsea,cff3d9bb,2025-2026
+Wesley Fofana,fr FRA,CB,24,"£ 200,000 (€ 229,548, $265,008)","£ 10,400,000 (€ 11,936,517, $13,780,416)",,Chelsea,cff3d9bb,2025-2026
+Christopher Nkunku,fr FRA,AM,27,"£ 195,000 (€ 223,810, $258,383)","£ 10,140,000 (€ 11,638,104, $13,435,906)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Enzo Fernández,ar ARG,CM,24,"£ 180,000 (€ 206,594, $238,507)","£ 9,360,000 (€ 10,742,865, $12,402,374)",,Chelsea,cff3d9bb,2025-2026
+Marc Cucurella,es ESP,LB,26,"£ 175,000 (€ 200,855, $231,882)","£ 9,100,000 (€ 10,444,452, $12,057,864)",,Chelsea,cff3d9bb,2025-2026
+Pedro Neto,pt POR,RW,25,"£ 160,000 (€ 183,639, $212,006)","£ 8,320,000 (€ 9,549,213, $11,024,333)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Moisés Caicedo,ec ECU,DM,23,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Chelsea,cff3d9bb,2025-2026
+Cole Palmer,eng ENG,AM,23,"£ 130,000 (€ 149,206, $172,255)","£ 6,760,000 (€ 7,758,736, $8,957,270)",,Chelsea,cff3d9bb,2025-2026
+Tosin Adarabioyo,eng ENG,CB,27,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Chelsea,cff3d9bb,2025-2026
+Levi Colwill,eng ENG,CB,22,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Chelsea,cff3d9bb,2025-2026
+Mykhailo Mudryk,ua UKR,LW,24,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Chelsea,cff3d9bb,2025-2026
+Liam Delap,,CF,22,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Chelsea,cff3d9bb,2025-2026
+Ben Chilwell,eng ENG,LB,28,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Chelsea,cff3d9bb,2025-2026
+Nicolas Jackson,sn SEN,CF,24,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Benoît Badiashile,fr FRA,CB,24,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Kiernan Dewsbury-Hall,eng ENG,CM,26,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Robert Sánchez,es ESP,GK,27,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Marc Guiu,,CF,19,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",,Chelsea,cff3d9bb,2025-2026
+Filip Jørgensen,dk DEN,GK,23,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Trevoh Chalobah,eng ENG,CB,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Roméo Lavia,,DM,21,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Malo Gusto,fr FRA,RB,22,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Lesley Ugochukwu,fr FRA,DM,21,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Armando Broja,al ALB,CF,23,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Gaga Slonina,us USA,GK,21,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Axel Disasi,fr FRA,CB,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+David Datro Fofana,,CF,22,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Andrey Santos,,CM,21,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Renato Veiga,,CB,21,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Aarón Anselmino,,CB,20,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Caleb Wiley,us USA,LB,20,"£ 12,000 (€ 13,773, $15,900)","£ 624,000 (€ 716,191, $826,825)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Alfie Gilchrist,,RB,21,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Mike Penders,,GK,19,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Tyrique George,,LW,19,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Josh Acheampong,,RB,19,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Chelsea,cff3d9bb,2025-2026
+Mathis Amougou,,CM,19,,,,Chelsea,cff3d9bb,2025-2026
+Dario Essugo,pt POR,DM,20,,,,Chelsea,cff3d9bb,2025-2026
+Mamadou Sarr,,CB,19,,,,Chelsea,cff3d9bb,2025-2026
+Kendry Páez,,AM,18,,,,Chelsea,cff3d9bb,2025-2026
+Estêvão,,RW,18,,,,Chelsea,cff3d9bb,2025-2026
+Daichi Kamada,jp JPN,MF,28,"£ 105,000 (€ 120,513, $139,129)","£ 5,460,000 (€ 6,266,671, $7,234,718)",,Crystal Palace,47c64c55,2025-2026
+Eberechi Eze,eng ENG,MF,27,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Crystal Palace,47c64c55,2025-2026
+Dean Henderson,eng ENG,GK,28,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Odsonne Édouard,fr FRA,FW,27,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Eddie Nketiah,eng ENG,CF,26,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Jefferson Lerma,co COL,MF,30,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Cheick Doucouré,ml MLI,DM,25,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Ismaila Sarr,sn SEN,MF,27,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Will Hughes,eng ENG,MF,30,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Daniel Muñoz,co COL,MF,29,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Chris Richards,us USA,DF,25,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Jean-Philippe Mateta,fr FRA,FW,28,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",,Crystal Palace,47c64c55,2025-2026
+Nathaniel Clyne,eng ENG,DF,34,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Marc Guéhi,eng ENG,DF,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Maxence Lacroix,fr FRA,DF,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Rob Holding,eng ENG,CB,29,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Tyrick Mitchell,eng ENG,MF,25,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Matheus França,,AM,21,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Adam Wharton,,DM,21,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Chadi Riad,,CB,22,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Naouirou Ahamada,fr FRA,CM,23,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Romain Esse,,RW,20,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Joe Whitworth,,GK,21,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Malcolm Ebiowei,eng ENG,RW,21,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Remi Matthews,eng ENG,GK,31,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Jesurun Rak-Sakyi,,RW,22,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Caleb Kporha,,RB,18,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Kaden Rodney,,DM,20,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Justin Devenny,,CM,21,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+David Ozoh,,DM,20,"£ 2,000 (€ 2,295, $2,650)","£ 104,000 (€ 119,365, $137,804)",Unverified estimation,Crystal Palace,47c64c55,2025-2026
+Walter Benítez,ar ARG,GK,32,,,,Crystal Palace,47c64c55,2025-2026
+Jordan Pickford,eng ENG,GK,31,"£ 125,000 (€ 143,468, $165,630)","£ 6,500,000 (€ 7,460,323, $8,612,760)",,Everton,d3fd31cc,2025-2026
+Idrissa Gana Gueye,sn SEN,DM,35,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Jarrad Branthwaite,eng ENG,CB,23,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Everton,d3fd31cc,2025-2026
+James Tarkowski,eng ENG,CB,32,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Everton,d3fd31cc,2025-2026
+Michael Keane,eng ENG,CB,32,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Vitaliy Mykolenko,ua UKR,LB,26,"£ 58,000 (€ 66,569, $76,852)","£ 3,016,000 (€ 3,461,590, $3,996,321)",,Everton,d3fd31cc,2025-2026
+Séamus Coleman,ie IRL,RB,36,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Beto,gw GNB,CF,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Iliman Ndiaye,sn SEN,LW,25,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Jake O'Brien,,RB,24,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Youssef Chermiti,,CF,21,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Everton,d3fd31cc,2025-2026
+James Garner,eng ENG,DM,24,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Nathan Patterson,sct SCO,RB,23,"£ 28,000 (€ 32,137, $37,101)","£ 1,456,000 (€ 1,671,112, $1,929,258)",,Everton,d3fd31cc,2025-2026
+Dwight McNeil,eng ENG,LW,25,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Tim Iroegbunam,,CM,22,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Carlos Alcaraz,ar ARG,CM,22,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Harry Tyrer,,GK,23,"£ 1,500 (€ 1,722, $1,988)","£ 78,000 (€ 89,524, $103,353)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Harrison Armstrong,,CM,18,"£ 1,200 (€ 1,377, $1,590)","£ 62,400 (€ 71,619, $82,682)",Unverified estimation,Everton,d3fd31cc,2025-2026
+Mark Travers,ie IRL,GK,26,,,,Everton,d3fd31cc,2025-2026
+Thierno Barry,,CF,22,,,,Everton,d3fd31cc,2025-2026
+Bernd Leno,de GER,GK,33,"£ 130,000 (€ 149,206, $172,255)","£ 6,760,000 (€ 7,758,736, $8,957,270)",,Fulham,fd962109,2025-2026
+Raúl Jiménez,mx MEX,CF,34,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Fulham,fd962109,2025-2026
+Joachim Andersen,dk DEN,CB,29,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Fulham,fd962109,2025-2026
+Alex Iwobi,ng NGA,LW,29,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Fulham,fd962109,2025-2026
+Issa Diop,fr FRA,CB,28,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Fulham,fd962109,2025-2026
+Adama Traoré,es ESP,RW,29,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Fulham,fd962109,2025-2026
+Timothy Castagne,be BEL,RB,29,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Fulham,fd962109,2025-2026
+Kenny Tete,nl NED,RB,29,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Fulham,fd962109,2025-2026
+Saša Lukić,rs SRB,DM,28,"£ 63,000 (€ 72,308, $83,478)","£ 3,276,000 (€ 3,760,003, $4,340,831)",,Fulham,fd962109,2025-2026
+Emile Smith Rowe,eng ENG,AM,24,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Fulham,fd962109,2025-2026
+Sander Berge,no NOR,DM,27,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",Unverified estimation,Fulham,fd962109,2025-2026
+Harrison Reed,eng ENG,CM,30,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Fulham,fd962109,2025-2026
+Antonee Robinson,us USA,LB,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Fulham,fd962109,2025-2026
+Andreas Pereira,br BRA,AM,29,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Fulham,fd962109,2025-2026
+Calvin Bassey,ng NGA,CB,25,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Fulham,fd962109,2025-2026
+Ryan Sessegnon,eng ENG,LB,25,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Fulham,fd962109,2025-2026
+Harry Wilson,wls WAL,RW,28,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Fulham,fd962109,2025-2026
+Tom Cairney,sct SCO,CM,34,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",,Fulham,fd962109,2025-2026
+Jorge Cuenca,es ESP,CB,25,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Fulham,fd962109,2025-2026
+Luke Harris,,AM,20,"£ 12,500 (€ 14,347, $16,563)","£ 650,000 (€ 746,032, $861,276)",Unverified estimation,Fulham,fd962109,2025-2026
+Steven Benda,de GER,GK,26,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Fulham,fd962109,2025-2026
+Josh King,,CM,18,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Fulham,fd962109,2025-2026
+Rodrigo Muniz,br BRA,CF,24,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Fulham,fd962109,2025-2026
+Martial Godo,,LW,22,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Fulham,fd962109,2025-2026
+Jack Harrison,eng ENG,RW,28,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Daniel James,wls WAL,RW,27,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Patrick Bamford,eng ENG,CF,31,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Pascal Struijk,nl NED,CB,25,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Brenden Aaronson,us USA,AM,24,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Leeds United,5bfb9659,2025-2026
+Joe Rodon,wls WAL,CB,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Ethan Ampadu,wls WAL,CB,24,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Maximilian Wöber,at AUT,CB,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Karl Darlow,wls WAL,GK,34,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Jayden Bogle,eng ENG,RB,24,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Illan Meslier,fr FRA,GK,25,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Sam Greenwood,eng ENG,CF,23,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Wilfried Gnonto,it ITA,RW,21,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Ao Tanaka,jp JPN,DM,26,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Sam Byram,eng ENG,LB,31,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Largie Ramazani,be BEL,LW,24,"£ 17,500 (€ 20,085, $23,188)","£ 910,000 (€ 1,044,445, $1,205,786)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Joe Gelhardt,eng ENG,CF,23,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",,Leeds United,5bfb9659,2025-2026
+Joël Piroe,nl NED,CF,25,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Mateo Joseph,,CF,21,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Ilia Gruev,bg BUL,DM,25,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Isaac Schmidt,ch SUI,RB,25,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Alex Cairns,eng ENG,GK,32,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Darko Gyabi,,CM,21,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Charlie Crew,,DM,19,"£ 1,000 (€ 1,148, $1,325)","£ 52,000 (€ 59,683, $68,902)",Unverified estimation,Leeds United,5bfb9659,2025-2026
+Lukas Nmecha,de GER,CF,26,,,,Leeds United,5bfb9659,2025-2026
+Jaka Bijol,si SVN,CB,26,,,,Leeds United,5bfb9659,2025-2026
+Sean Longstaff,eng ENG,CM,27,,,,Leeds United,5bfb9659,2025-2026
+Anton Stach,de GER,DM,26,,,,Leeds United,5bfb9659,2025-2026
+Mohamed Salah,eg EGY,MF,33,"£ 400,000 (€ 459,097, $530,016)","£ 20,800,000 (€ 23,873,034, $27,560,832)",,Liverpool,822bd0ba,2025-2026
+Virgil van Dijk,nl NED,DF,34,"£ 350,000 (€ 401,710, $463,764)","£ 18,200,000 (€ 20,888,904, $24,115,728)",,Liverpool,822bd0ba,2025-2026
+Hugo Ekitike,fr FRA,FW,23,"£ 200,000 (€ 229,548, $265,008)","£ 10,400,000 (€ 11,936,517, $13,780,416)",,Liverpool,822bd0ba,2025-2026
+Florian Wirtz,de GER,MF,22,"£ 195,000 (€ 223,810, $258,383)","£ 10,140,000 (€ 11,638,104, $13,435,906)",,Liverpool,822bd0ba,2025-2026
+Andrew Robertson,sct SCO,"DF,MF",31,"£ 160,000 (€ 183,639, $212,006)","£ 8,320,000 (€ 9,549,213, $11,024,333)",,Liverpool,822bd0ba,2025-2026
+Alisson,br BRA,GK,32,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Liverpool,822bd0ba,2025-2026
+Federico Chiesa,it ITA,"DF,FW",27,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Liverpool,822bd0ba,2025-2026
+Ryan Gravenberch,nl NED,DM,23,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Alexis Mac Allister,ar ARG,MF,26,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Darwin Núñez,uy URU,CF,26,"£ 140,000 (€ 160,684, $185,506)","£ 7,280,000 (€ 8,355,562, $9,646,291)",,Liverpool,822bd0ba,2025-2026
+Cody Gakpo,nl NED,MF,26,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Liverpool,822bd0ba,2025-2026
+Dominik Szoboszlai,hu HUN,MF,24,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Liverpool,822bd0ba,2025-2026
+Jeremie Frimpong,nl NED,DF,24,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Liverpool,822bd0ba,2025-2026
+Giorgi Mamardashvili,ge GEO,GK,24,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Joe Gomez,eng ENG,CB,28,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Conor Bradley,nir NIR,RB,21,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Liverpool,822bd0ba,2025-2026
+Kostas Tsimikas,gr GRE,LB,29,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Ibrahima Konaté,fr FRA,DF,26,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",,Liverpool,822bd0ba,2025-2026
+Wataru Endo,jp JPN,"DF,MF",32,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Harvey Elliott,eng ENG,"FW,MF",22,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Stefan Bajcetic,,DM,20,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Calvin Ramsay,sct SCO,RB,21,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",,Liverpool,822bd0ba,2025-2026
+Curtis Jones,eng ENG,MF,24,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Ben Doak,,RW,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Rhys Williams,eng ENG,CB,24,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Tyler Morton,,DM,22,"£ 8,000 (€ 9,182, $10,600)","£ 416,000 (€ 477,461, $551,217)",Unverified estimation,Liverpool,822bd0ba,2025-2026
+Freddie Woodman,eng ENG,GK,28,,,,Liverpool,822bd0ba,2025-2026
+Milos Kerkez,hu HUN,DF,21,,,,Liverpool,822bd0ba,2025-2026
+Ármin Pécsi,,GK,20,,,,Liverpool,822bd0ba,2025-2026
+Erling Haaland,no NOR,CF,24,"£ 525,000 (€ 602,565, $695,646)","£ 27,300,000 (€ 31,333,357, $36,173,592)",,Manchester City,b8fd03ef,2025-2026
+Bernardo Silva,pt POR,AM,30,"£ 300,000 (€ 344,323, $397,512)","£ 15,600,000 (€ 17,904,775, $20,670,624)",,Manchester City,b8fd03ef,2025-2026
+Jack Grealish,eng ENG,LW,29,"£ 300,000 (€ 344,323, $397,512)","£ 15,600,000 (€ 17,904,775, $20,670,624)",,Manchester City,b8fd03ef,2025-2026
+Omar Marmoush,eg EGY,CF,26,"£ 295,000 (€ 338,584, $390,887)","£ 15,340,000 (€ 17,606,362, $20,326,114)",,Manchester City,b8fd03ef,2025-2026
+John Stones,eng ENG,CB,31,"£ 250,000 (€ 286,936, $331,260)","£ 13,000,000 (€ 14,920,646, $17,225,520)",,Manchester City,b8fd03ef,2025-2026
+İlkay Gündoğan,de GER,CM,34,"£ 230,000 (€ 263,981, $304,759)","£ 11,960,000 (€ 13,726,994, $15,847,478)",,Manchester City,b8fd03ef,2025-2026
+Tijjani Reijnders,nl NED,CM,26,"£ 230,000 (€ 263,981, $304,759)","£ 11,960,000 (€ 13,726,994, $15,847,478)",,Manchester City,b8fd03ef,2025-2026
+Phil Foden,eng ENG,RW,25,"£ 225,000 (€ 258,242, $298,134)","£ 11,700,000 (€ 13,428,581, $15,502,968)",,Manchester City,b8fd03ef,2025-2026
+Rodri,es ESP,DM,29,"£ 220,000 (€ 252,503, $291,509)","£ 11,440,000 (€ 13,130,168, $15,158,458)",,Manchester City,b8fd03ef,2025-2026
+Joško Gvardiol,hr CRO,LB,23,"£ 200,000 (€ 229,548, $265,008)","£ 10,400,000 (€ 11,936,517, $13,780,416)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Rúben Dias,pt POR,CB,28,"£ 180,000 (€ 206,594, $238,507)","£ 9,360,000 (€ 10,742,865, $12,402,374)",,Manchester City,b8fd03ef,2025-2026
+Manuel Akanji,ch SUI,CB,29,"£ 180,000 (€ 206,594, $238,507)","£ 9,360,000 (€ 10,742,865, $12,402,374)",,Manchester City,b8fd03ef,2025-2026
+Kyle Walker,eng ENG,RB,35,"£ 175,000 (€ 200,855, $231,882)","£ 9,100,000 (€ 10,444,452, $12,057,864)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Nathan Aké,nl NED,CB,30,"£ 160,000 (€ 183,639, $212,006)","£ 8,320,000 (€ 9,549,213, $11,024,333)",,Manchester City,b8fd03ef,2025-2026
+Kalvin Phillips,eng ENG,DM,29,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Manchester City,b8fd03ef,2025-2026
+Mateo Kovačić,hr CRO,CM,31,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Matheus Nunes,pt POR,CM,26,"£ 130,000 (€ 149,206, $172,255)","£ 6,760,000 (€ 7,758,736, $8,957,270)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Ederson,br BRA,GK,31,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Manchester City,b8fd03ef,2025-2026
+Stefan Ortega,de GER,GK,32,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Nicolás González,es ESP,CM,23,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Oscar Bobb,,RW,21,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",,Manchester City,b8fd03ef,2025-2026
+Jeremy Doku,be BEL,LW,23,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Sávio,br BRA,RW,21,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Vitor Reis,,CB,19,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Rico Lewis,,RB,20,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",,Manchester City,b8fd03ef,2025-2026
+Issa Kaboré,bf BFA,RB,24,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Abdukodir Khusanov,,CB,21,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+James McAtee,,AM,22,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Claudio Echeverri,,AM,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Josh Wilson-Esbrand,,LB,22,"£ 7,000 (€ 8,034, $9,275)","£ 364,000 (€ 417,778, $482,315)",Unverified estimation,Manchester City,b8fd03ef,2025-2026
+Nico O'Reilly,,AM,20,,,,Manchester City,b8fd03ef,2025-2026
+Marcus Bettinelli,eng ENG,GK,33,,,,Manchester City,b8fd03ef,2025-2026
+Rayan Aït-Nouri,dz ALG,LB,24,,,,Manchester City,b8fd03ef,2025-2026
+Rayan Cherki,fr FRA,RW,21,,,,Manchester City,b8fd03ef,2025-2026
+James Trafford,eng ENG,GK,22,,,,Manchester City,b8fd03ef,2025-2026
+Casemiro,br BRA,DM,33,"£ 350,000 (€ 401,710, $463,764)","£ 18,200,000 (€ 20,888,904, $24,115,728)",,Manchester Utd,19538871,2025-2026
+Bruno Fernandes,pt POR,AM,30,"£ 300,000 (€ 344,323, $397,512)","£ 15,600,000 (€ 17,904,775, $20,670,624)",,Manchester Utd,19538871,2025-2026
+Jadon Sancho,eng ENG,LW,25,"£ 250,000 (€ 286,936, $331,260)","£ 13,000,000 (€ 14,920,646, $17,225,520)",,Manchester Utd,19538871,2025-2026
+Mason Mount,eng ENG,AM,26,"£ 250,000 (€ 286,936, $331,260)","£ 13,000,000 (€ 14,920,646, $17,225,520)",,Manchester Utd,19538871,2025-2026
+Matthijs de Ligt,nl NED,CB,25,"£ 195,000 (€ 223,810, $258,383)","£ 10,140,000 (€ 11,638,104, $13,435,906)",,Manchester Utd,19538871,2025-2026
+Harry Maguire,eng ENG,CB,32,"£ 190,000 (€ 218,071, $251,758)","£ 9,880,000 (€ 11,339,691, $13,091,395)",,Manchester Utd,19538871,2025-2026
+Matheus Cunha,br BRA,SS,26,"£ 180,000 (€ 206,594, $238,507)","£ 9,360,000 (€ 10,742,865, $12,402,374)",,Manchester Utd,19538871,2025-2026
+Bryan Mbeumo,cm CMR,RW,25,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Manchester Utd,19538871,2025-2026
+Luke Shaw,eng ENG,LB,29,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,Manchester Utd,19538871,2025-2026
+Noussair Mazraoui,ma MAR,RB,27,"£ 135,000 (€ 154,945, $178,880)","£ 7,020,000 (€ 8,057,149, $9,301,781)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Lisandro Martínez,ar ARG,CB,27,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Manchester Utd,19538871,2025-2026
+Amad Diallo,ci CIV,RW,22,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Manchester Utd,19538871,2025-2026
+André Onana,cm CMR,GK,29,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Manchester Utd,19538871,2025-2026
+Manuel Ugarte,,DM,24,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Leny Yoro,,CB,19,"£ 115,000 (€ 131,990, $152,380)","£ 5,980,000 (€ 6,863,497, $7,923,739)",,Manchester Utd,19538871,2025-2026
+Antony,br BRA,RW,25,"£ 105,000 (€ 120,513, $139,129)","£ 5,460,000 (€ 6,266,671, $7,234,718)",,Manchester Utd,19538871,2025-2026
+Joshua Zirkzee,nl NED,CF,24,"£ 105,000 (€ 120,513, $139,129)","£ 5,460,000 (€ 6,266,671, $7,234,718)",,Manchester Utd,19538871,2025-2026
+Rasmus Højlund,dk DEN,CF,22,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",,Manchester Utd,19538871,2025-2026
+Diogo Dalot,pt POR,RB,26,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Tyrell Malacia,nl NED,LB,25,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Alejandro Garnacho,,AM,21,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",,Manchester Utd,19538871,2025-2026
+Tom Heaton,eng ENG,GK,39,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",,Manchester Utd,19538871,2025-2026
+Patrick Dorgu,,LM,20,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",,Manchester Utd,19538871,2025-2026
+Altay Bayındır,tr TUR,GK,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Kobbie Mainoo,,CM,20,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",,Manchester Utd,19538871,2025-2026
+Chido Obi,,CF,17,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",,Manchester Utd,19538871,2025-2026
+Ethan Wheatley,,CF,19,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",,Manchester Utd,19538871,2025-2026
+Harry Amass,,LB,18,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",,Manchester Utd,19538871,2025-2026
+Tyler Fredricson,,CB,20,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",,Manchester Utd,19538871,2025-2026
+Toby Collyer,,DM,21,"£ 4,000 (€ 4,591, $5,300)","£ 208,000 (€ 238,730, $275,608)",,Manchester Utd,19538871,2025-2026
+Ayden Heaven,,CB,18,"£ 4,000 (€ 4,591, $5,300)","£ 208,000 (€ 238,730, $275,608)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Daniel Gore,,CM,20,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Manchester Utd,19538871,2025-2026
+Diego León,,LB,18,,,,Manchester Utd,19538871,2025-2026
+Bruno Guimarães,br BRA,DM,27,"£ 160,000 (€ 183,639, $212,006)","£ 8,320,000 (€ 9,549,213, $11,024,333)",,Newcastle Utd,b2b47a98,2025-2026
+Anthony Gordon,eng ENG,LW,24,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Joelinton,br BRA,CM,28,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Alexander Isak,se SWE,CF,25,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Newcastle Utd,b2b47a98,2025-2026
+Sandro Tonali,it ITA,CM,25,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,Newcastle Utd,b2b47a98,2025-2026
+Kieran Trippier,eng ENG,RB,34,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Matt Targett,eng ENG,LB,29,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,Newcastle Utd,b2b47a98,2025-2026
+Sven Botman,nl NED,CB,25,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,Newcastle Utd,b2b47a98,2025-2026
+Harvey Barnes,eng ENG,LW,27,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Joe Willock,eng ENG,CM,25,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Dan Burn,eng ENG,CB,33,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Nick Pope,eng ENG,GK,33,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",,Newcastle Utd,b2b47a98,2025-2026
+Fabian Schär,ch SUI,CB,33,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Emil Krafth,se SWE,RB,30,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",,Newcastle Utd,b2b47a98,2025-2026
+Odysseas Vlachodimos,gr GRE,GK,31,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Valentino Livramento,eng ENG,RB,22,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Jamaal Lascelles,eng ENG,CB,31,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",,Newcastle Utd,b2b47a98,2025-2026
+Martin Dúbravka,sk SVK,GK,36,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Jacob Murphy,eng ENG,RW,30,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Isaac Hayden,jm JAM,DM,30,"£ 22,000 (€ 25,250, $29,151)","£ 1,144,000 (€ 1,313,017, $1,515,846)",,Newcastle Utd,b2b47a98,2025-2026
+William Osula,,CF,21,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Mark Gillespie,eng ENG,GK,33,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",,Newcastle Utd,b2b47a98,2025-2026
+Harrison Ashby,,RB,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Lewis Hall,,LB,20,"£ 7,000 (€ 8,034, $9,275)","£ 364,000 (€ 417,778, $482,315)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Lewis Miley,,CM,19,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Joe White,eng ENG,AM,22,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Alex Murphy,,LB,21,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Newcastle Utd,b2b47a98,2025-2026
+Antoñito Cordero,,LW,18,,,,Newcastle Utd,b2b47a98,2025-2026
+Anthony Elanga,se SWE,RW,23,,,,Newcastle Utd,b2b47a98,2025-2026
+Nikola Milenković,rs SRB,CB,27,"£ 105,000 (€ 120,513, $139,129)","£ 5,460,000 (€ 6,266,671, $7,234,718)",,Nott'ham Forest,e4a775cb,2025-2026
+Morgan Gibbs-White,eng ENG,AM,25,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Chris Wood,nz NZL,CF,33,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Dan Ndoye,ch SUI,RW,24,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",,Nott'ham Forest,e4a775cb,2025-2026
+Callum Hudson-Odoi,eng ENG,LW,24,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Ibrahim Sangaré,ci CIV,DM,27,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Neco Williams,wls WAL,RB,24,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Taiwo Awoniyi,ng NGA,CF,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Ryan Yates,eng ENG,CM,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Lewis O'Brien,eng ENG,CM,26,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Ola Aina,ng NGA,RB,28,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Matz Sels,be BEL,GK,33,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Willy Boly,ci CIV,CB,34,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Omar Richards,eng ENG,LB,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Murillo,,CB,22,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Matt Turner,us USA,GK,31,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Emmanuel Dennis,ng NGA,CF,27,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Elliot Anderson,eng ENG,CM,22,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Morato,br BRA,CB,24,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Nicolás Domínguez,ar ARG,CM,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Danilo,br BRA,DM,24,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",,Nott'ham Forest,e4a775cb,2025-2026
+Ramón Sosa,py PAR,LW,25,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Jota Silva,pt POR,RW,25,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Josh Bowler,eng ENG,RW,26,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Carlos Miguel,br BRA,GK,26,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Tyler Bindon,,CB,20,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Wayne Hennessey,wls WAL,GK,38,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Eric da Silva Moreira,,RM,19,"£ 8,000 (€ 9,182, $10,600)","£ 416,000 (€ 477,461, $551,217)",Unverified estimation,Nott'ham Forest,e4a775cb,2025-2026
+Marko Stamenic,,DM,23,,,,Nott'ham Forest,e4a775cb,2025-2026
+David Carmo,ao ANG,CB,25,,,,Nott'ham Forest,e4a775cb,2025-2026
+Daniel Ballard,nir NIR,CB,25,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Wilson Isidor,fr FRA,CF,24,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Alan Browne,ie IRL,CM,30,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Patrick Roberts,eng ENG,RW,28,"£ 12,500 (€ 14,347, $16,563)","£ 650,000 (€ 746,032, $861,276)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Anthony Patterson,eng ENG,GK,25,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Dennis Cirkin,,LB,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Ian Poveda,eng ENG,RW,25,"£ 9,000 (€ 10,330, $11,925)","£ 468,000 (€ 537,143, $620,119)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Timothee Pembele,fr FRA,RB,22,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Luke O'Nien,eng ENG,CB,30,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Adil Aouchiche,fr FRA,AM,22,"£ 7,000 (€ 8,034, $9,275)","£ 364,000 (€ 417,778, $482,315)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Simon Moore,eng ENG,GK,35,"£ 7,000 (€ 8,034, $9,275)","£ 364,000 (€ 417,778, $482,315)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Pierre Ekwah,,DM,23,"£ 6,500 (€ 7,460, $8,613)","£ 338,000 (€ 387,937, $447,864)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Eliezer Mayenda,,CF,20,"£ 6,500 (€ 7,460, $8,613)","£ 338,000 (€ 387,937, $447,864)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Ajibola Alese,eng ENG,CB,24,"£ 6,000 (€ 6,886, $7,950)","£ 312,000 (€ 358,096, $413,412)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Blondy Nna Noukeu,,GK,23,"£ 6,000 (€ 6,886, $7,950)","£ 312,000 (€ 358,096, $413,412)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Abdoullah Ba,fr FRA,RM,21,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Romaine Mundle,,LW,22,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Leo Fuhr Hjelde,no NOR,LB,21,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Niall Huggins,wls WAL,RB,24,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Jay Matete,eng ENG,CM,24,"£ 4,500 (€ 5,165, $5,963)","£ 234,000 (€ 268,572, $310,059)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Milan Aleksic,,CM,19,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Trai Hume,nir NIR,RB,23,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Nectarios Triantis,,DM,22,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Joe Anderson,,CB,24,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Jenson Seelt,,CB,22,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Ahmed Abdullahi,,CF,21,"£ 2,000 (€ 2,295, $2,650)","£ 104,000 (€ 119,365, $137,804)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Chris Rigg,,AM,18,"£ 1,500 (€ 1,722, $1,988)","£ 78,000 (€ 89,524, $103,353)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Dan Neil,eng ENG,CM,23,"£ 1,346 (€ 1,545, $1,784)","£ 70,000 (€ 80,342, $92,753)",Unverified estimation,Sunderland,8ef52968,2025-2026
+Nazarii Rusyn,,CF,26,,,,Sunderland,8ef52968,2025-2026
+Luís Semedo,,CF,21,,,,Sunderland,8ef52968,2025-2026
+Granit Xhaka,ch SUI,DM,32,,,,Sunderland,8ef52968,2025-2026
+Enzo Le Fée,fr FRA,CM,25,,,,Sunderland,8ef52968,2025-2026
+Son Heung-min,kr KOR,LW,32,"£ 190,000 (€ 218,071, $251,758)","£ 9,880,000 (€ 11,339,691, $13,091,395)",,Tottenham,361ca564,2025-2026
+James Maddison,eng ENG,AM,28,"£ 170,000 (€ 195,116, $225,257)","£ 8,840,000 (€ 10,146,039, $11,713,354)",,Tottenham,361ca564,2025-2026
+Cristian Romero,ar ARG,DF,27,"£ 165,000 (€ 189,377, $218,632)","£ 8,580,000 (€ 9,847,626, $11,368,843)",,Tottenham,361ca564,2025-2026
+Dejan Kulusevski,se SWE,AM,25,"£ 110,000 (€ 126,252, $145,754)","£ 5,720,000 (€ 6,565,084, $7,579,229)",,Tottenham,361ca564,2025-2026
+Richarlison,br BRA,FW,28,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,Tottenham,361ca564,2025-2026
+Dominic Solanke,eng ENG,FW,27,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Tottenham,361ca564,2025-2026
+Radu Drăgușin,ro ROU,CB,23,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",,Tottenham,361ca564,2025-2026
+Pedro Porro,es ESP,DF,25,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",,Tottenham,361ca564,2025-2026
+Ben Davies,wls WAL,"DF,MF",32,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",Unverified estimation,Tottenham,361ca564,2025-2026
+Archie Gray,,DM,19,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Tottenham,361ca564,2025-2026
+Destiny Udogie,it ITA,LB,22,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Tottenham,361ca564,2025-2026
+Guglielmo Vicario,it ITA,GK,28,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",,Tottenham,361ca564,2025-2026
+Rodrigo Bentancur,uy URU,MF,28,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,Tottenham,361ca564,2025-2026
+Brennan Johnson,wls WAL,"FW,MF",24,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Tottenham,361ca564,2025-2026
+Pape Matar Sarr,sn SEN,MF,22,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Tottenham,361ca564,2025-2026
+Lucas Bergvall,,CM,19,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,Tottenham,361ca564,2025-2026
+Manor Solomon,il ISR,LW,25,"£ 60,000 (€ 68,865, $79,502)","£ 3,120,000 (€ 3,580,955, $4,134,125)",,Tottenham,361ca564,2025-2026
+Yves Bissouma,ml MLI,DM,28,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",Unverified estimation,Tottenham,361ca564,2025-2026
+Micky van de Ven,nl NED,DF,24,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Tottenham,361ca564,2025-2026
+Djed Spence,eng ENG,FW,24,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",,Tottenham,361ca564,2025-2026
+Bryan Gil,es ESP,LW,24,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",,Tottenham,361ca564,2025-2026
+Wilson Odobert,,RW,20,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Tottenham,361ca564,2025-2026
+Alejo Veliz,,CF,21,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Tottenham,361ca564,2025-2026
+Ashley Phillips,,CB,20,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Tottenham,361ca564,2025-2026
+Antonín Kinský,,GK,22,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Tottenham,361ca564,2025-2026
+Brandon Austin,eng ENG,GK,26,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Tottenham,361ca564,2025-2026
+Dane Scarlett,,CF,21,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Tottenham,361ca564,2025-2026
+Min-hyeok Yang,,RW,19,"£ 7,500 (€ 8,608, $9,938)","£ 390,000 (€ 447,619, $516,766)",Unverified estimation,Tottenham,361ca564,2025-2026
+Alfie Devine,,AM,20,"£ 6,500 (€ 7,460, $8,613)","£ 338,000 (€ 387,937, $447,864)",Unverified estimation,Tottenham,361ca564,2025-2026
+Mikey Moore,,LW,17,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,Tottenham,361ca564,2025-2026
+Kevin Danso,at AUT,DF,26,,,,Tottenham,361ca564,2025-2026
+Luka Vuskovic,,CB,18,,,,Tottenham,361ca564,2025-2026
+Mathys Tel,fr FRA,FW,20,,,,Tottenham,361ca564,2025-2026
+Mohammed Kudus,,RW,24,,,,Tottenham,361ca564,2025-2026
+Jarrod Bowen,eng ENG,RW,28,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,West Ham,7c21e445,2025-2026
+Lucas Paquetá,br BRA,AM,27,"£ 150,000 (€ 172,161, $198,756)","£ 7,800,000 (€ 8,952,388, $10,335,312)",,West Ham,7c21e445,2025-2026
+Alphonse Areola,fr FRA,GK,32,"£ 120,000 (€ 137,729, $159,005)","£ 6,240,000 (€ 7,161,910, $8,268,250)",,West Ham,7c21e445,2025-2026
+James Ward-Prowse,eng ENG,CM,30,"£ 115,000 (€ 131,990, $152,380)","£ 5,980,000 (€ 6,863,497, $7,923,739)",Unverified estimation,West Ham,7c21e445,2025-2026
+Edson Álvarez,mx MEX,DM,27,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",,West Ham,7c21e445,2025-2026
+Max Kilman,eng ENG,CB,28,"£ 100,000 (€ 114,774, $132,504)","£ 5,200,000 (€ 5,968,258, $6,890,208)",Unverified estimation,West Ham,7c21e445,2025-2026
+Emerson Palmieri,it ITA,LB,30,"£ 95,000 (€ 109,035, $125,879)","£ 4,940,000 (€ 5,669,845, $6,545,698)",,West Ham,7c21e445,2025-2026
+Aaron Wan-Bissaka,eng ENG,RB,27,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,West Ham,7c21e445,2025-2026
+Niclas Füllkrug,de GER,CF,32,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",,West Ham,7c21e445,2025-2026
+Tomáš Souček,cz CZE,DM,30,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,West Ham,7c21e445,2025-2026
+Michail Antonio,jm JAM,CF,35,"£ 85,000 (€ 97,558, $112,628)","£ 4,420,000 (€ 5,073,020, $5,856,677)",,West Ham,7c21e445,2025-2026
+Guido Rodríguez,ar ARG,DM,31,"£ 75,000 (€ 86,081, $99,378)","£ 3,900,000 (€ 4,476,194, $5,167,656)",Unverified estimation,West Ham,7c21e445,2025-2026
+Maxwel Cornet,ci CIV,LW,28,"£ 65,000 (€ 74,603, $86,128)","£ 3,380,000 (€ 3,879,368, $4,478,635)",Unverified estimation,West Ham,7c21e445,2025-2026
+Nayef Aguerd,ma MAR,CB,29,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,West Ham,7c21e445,2025-2026
+Konstantinos Mavropanos,gr GRE,CB,27,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,West Ham,7c21e445,2025-2026
+Crysencio Summerville,nl NED,LW,23,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,West Ham,7c21e445,2025-2026
+Luis Guilherme,,RW,19,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,West Ham,7c21e445,2025-2026
+Jean-Clair Todibo,fr FRA,CB,25,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,West Ham,7c21e445,2025-2026
+Wes Foderingham,eng ENG,GK,34,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,West Ham,7c21e445,2025-2026
+Andy Irving,sct SCO,CM,25,"£ 5,000 (€ 5,739, $6,625)","£ 260,000 (€ 298,413, $344,510)",Unverified estimation,West Ham,7c21e445,2025-2026
+Mohamadou Kanté,,CM,19,"£ 3,000 (€ 3,443, $3,975)","£ 156,000 (€ 179,048, $206,706)",Unverified estimation,West Ham,7c21e445,2025-2026
+Kaelan Casey,,CB,20,"£ 2,500 (€ 2,869, $3,313)","£ 130,000 (€ 149,206, $172,255)",Unverified estimation,West Ham,7c21e445,2025-2026
+Kyle Walker-Peters,eng ENG,RB,28,,,,West Ham,7c21e445,2025-2026
+Oliver Scarles,,LB,19,,,,West Ham,7c21e445,2025-2026
+Gonçalo Guedes,pt POR,LW,28,"£ 90,000 (€ 103,297, $119,254)","£ 4,680,000 (€ 5,371,433, $6,201,187)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Fábio Silva,pt POR,CF,22,"£ 80,000 (€ 91,819, $106,003)","£ 4,160,000 (€ 4,774,607, $5,512,166)",,Wolves,8cec06e1,2025-2026
+João Gomes,br BRA,CM,24,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Hwang Hee-chan,kr KOR,CF,29,"£ 70,000 (€ 80,342, $92,753)","£ 3,640,000 (€ 4,177,781, $4,823,146)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Boubacar Traoré,ml MLI,DM,23,"£ 55,000 (€ 63,126, $72,877)","£ 2,860,000 (€ 3,282,542, $3,789,614)",,Wolves,8cec06e1,2025-2026
+Matt Doherty,ie IRL,RB,33,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Marshall Munetsi,zw ZIM,CM,29,"£ 50,000 (€ 57,387, $66,252)","£ 2,600,000 (€ 2,984,129, $3,445,104)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Emmanuel Agbadou,ci CIV,CB,28,"£ 45,000 (€ 51,648, $59,627)","£ 2,340,000 (€ 2,685,716, $3,100,594)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Ki-Jana Hoever,nl NED,RB,23,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",,Wolves,8cec06e1,2025-2026
+Sam Johnstone,eng ENG,GK,32,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Wolves,8cec06e1,2025-2026
+José Sá,pt POR,GK,32,"£ 40,000 (€ 45,910, $53,002)","£ 2,080,000 (€ 2,387,303, $2,756,083)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Sasa Kalajdzic,at AUT,CF,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Jean-Ricner Bellegarde,fr FRA,CM,27,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Wolves,8cec06e1,2025-2026
+André,br BRA,DM,23,"£ 35,000 (€ 40,171, $46,376)","£ 1,820,000 (€ 2,088,890, $2,411,573)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Santiago Bueno,uy URU,CB,26,"£ 30,000 (€ 34,432, $39,751)","£ 1,560,000 (€ 1,790,478, $2,067,062)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Rodrigo Gomes,pt POR,RM,21,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Toti Gomes,pt POR,CB,26,"£ 25,000 (€ 28,694, $33,126)","£ 1,300,000 (€ 1,492,065, $1,722,552)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Daniel Bentley,eng ENG,GK,31,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Yerson Mosquera,co COL,CB,24,"£ 20,000 (€ 22,955, $26,501)","£ 1,040,000 (€ 1,193,652, $1,378,042)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Pedro Lima,,RB,19,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Jørgen Strand Larsen,no NOR,CF,25,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Nasser Djiga,bf BFA,CB,22,"£ 15,000 (€ 17,216, $19,876)","£ 780,000 (€ 895,239, $1,033,531)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Enso González,,LW,20,"£ 12,500 (€ 14,347, $16,563)","£ 650,000 (€ 746,032, $861,276)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Tommy Doyle,eng ENG,CM,23,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",,Wolves,8cec06e1,2025-2026
+Joe Hodge,,DM,22,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Hugo Bueno,,LB,22,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Tom King,wls WAL,GK,30,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Chiquinho,pt POR,LW,25,"£ 10,000 (€ 11,477, $13,250)","£ 520,000 (€ 596,826, $689,021)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Bastien Meupiyou,,CB,19,"£ 8,000 (€ 9,182, $10,600)","£ 416,000 (€ 477,461, $551,217)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Nathan Fraser,,CF,20,"£ 2,500 (€ 2,869, $3,313)","£ 130,000 (€ 149,206, $172,255)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Tawanda Chirewa,,AM,21,"£ 2,000 (€ 2,295, $2,650)","£ 104,000 (€ 119,365, $137,804)",Unverified estimation,Wolves,8cec06e1,2025-2026
+Jhon Arias,co COL,RW,27,,,,Wolves,8cec06e1,2025-2026
+Fer López,,RW,21,,,,Wolves,8cec06e1,2025-2026
