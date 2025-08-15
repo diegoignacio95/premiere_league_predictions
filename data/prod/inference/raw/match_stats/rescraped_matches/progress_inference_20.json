@@ -1,0 +1,1442 @@
+[
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"68%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Possession",
+    "stat_value":"32%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"80%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"60%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"43%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Shots on Target",
+    "stat_value":"75%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"33%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Saves",
+    "stat_value":"77%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Fouls",
+    "stat_value":"21"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Corners",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"32"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Crosses",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"677"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Touches",
+    "stat_value":"403"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Tackles",
+    "stat_value":"23"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Interceptions",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Aerials Won",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Clearances",
+    "stat_value":"29"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Goal Kicks",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"26"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Throw Ins",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"51"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/fc3ff616\/Leeds-United-Portsmouth-August-10-2024-Championship",
+    "team_name":"Portsmouth",
+    "stat_name":"Long Balls",
+    "stat_value":"73"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"59%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Possession",
+    "stat_value":"42%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"17%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Shots on Target",
+    "stat_value":"41%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"57%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Fouls",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Corners",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Crosses",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Interceptions",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/784e7332\/Leeds-United-Middlesbrough-August-14-2024-EFL-Cup",
+    "team_name":"Middlesbrough",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Possession",
+    "stat_value":"59%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"41%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"83%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"77%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Shots on Target",
+    "stat_value":"13%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"13%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Fouls",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Corners",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Crosses",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Touches",
+    "stat_value":"650"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"492"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Tackles",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Interceptions",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Aerials Won",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Clearances",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Offsides",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Goal Kicks",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Throw Ins",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"West Brom",
+    "stat_name":"Long Balls",
+    "stat_value":"79"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/6cc636f7\/West-Bromwich-Albion-Leeds-United-August-17-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"58"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Possession",
+    "stat_value":"31%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"69%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"70%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"88%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Shots on Target",
+    "stat_value":"25%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"38%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Saves",
+    "stat_value":"60%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Fouls",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Corners",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Crosses",
+    "stat_value":"26"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Touches",
+    "stat_value":"441"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"843"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Tackles",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"25"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Interceptions",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Aerials Won",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Clearances",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"33"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Offsides",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Goal Kicks",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Throw Ins",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"25"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Sheffield Weds",
+    "stat_name":"Long Balls",
+    "stat_value":"56"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/ced9ecd0\/Sheffield-Wednesday-Leeds-United-August-23-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"52"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"55%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Possession",
+    "stat_value":"45%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"88%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"85%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"31%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Shots on Target",
+    "stat_value":"22%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Saves",
+    "stat_value":"60%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Fouls",
+    "stat_value":"15"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Corners",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Crosses",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"738"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Touches",
+    "stat_value":"614"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Tackles",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Aerials Won",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Clearances",
+    "stat_value":"28"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Throw Ins",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"39"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/507f8537\/Leeds-United-Hull-City-August-31-2024-Championship",
+    "team_name":"Hull City",
+    "stat_name":"Long Balls",
+    "stat_value":"46"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Possession",
+    "stat_value":"21%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"79%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"53%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"88%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Shots on Target",
+    "stat_value":"67%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"43%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Saves",
+    "stat_value":"66%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"100%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Fouls",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Corners",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Crosses",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Touches",
+    "stat_value":"322"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"920"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Tackles",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Interceptions",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Aerials Won",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Clearances",
+    "stat_value":"22"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"3"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Throw Ins",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"24"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Cardiff City",
+    "stat_name":"Long Balls",
+    "stat_value":"83"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/5cae7b0c\/Cardiff-City-Leeds-United-September-21-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"49"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Possession",
+    "stat_value":"46%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"54%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"79%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"83%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Shots on Target",
+    "stat_value":"0%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"21%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Saves",
+    "stat_value":"66%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Fouls",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Corners",
+    "stat_value":"9"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"6"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Crosses",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"18"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Touches",
+    "stat_value":"576"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"658"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Tackles",
+    "stat_value":"21"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Interceptions",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Aerials Won",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Clearances",
+    "stat_value":"26"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"20"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Offsides",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Goal Kicks",
+    "stat_value":"4"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Throw Ins",
+    "stat_value":"12"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Norwich City",
+    "stat_name":"Long Balls",
+    "stat_value":"46"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/a67955c6\/Norwich-City-Leeds-United-October-1-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"39"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Possession",
+    "stat_value":"49%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Possession",
+    "stat_value":"51%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"86%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Passing Accuracy",
+    "stat_value":"85%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Shots on Target",
+    "stat_value":"29%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Shots on Target",
+    "stat_value":"13%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Saves",
+    "stat_value":"0%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Saves",
+    "stat_value":"75%"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Fouls",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Fouls",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Corners",
+    "stat_value":"8"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Corners",
+    "stat_value":"1"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Crosses",
+    "stat_value":"19"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Crosses",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Touches",
+    "stat_value":"576"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Touches",
+    "stat_value":"590"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Tackles",
+    "stat_value":"14"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Tackles",
+    "stat_value":"21"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Interceptions",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Interceptions",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Aerials Won",
+    "stat_value":"17"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Aerials Won",
+    "stat_value":"10"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Clearances",
+    "stat_value":"23"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Clearances",
+    "stat_value":"16"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Offsides",
+    "stat_value":"2"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Offsides",
+    "stat_value":"0"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Goal Kicks",
+    "stat_value":"5"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Goal Kicks",
+    "stat_value":"7"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Throw Ins",
+    "stat_value":"13"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Throw Ins",
+    "stat_value":"11"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Sunderland",
+    "stat_name":"Long Balls",
+    "stat_value":"30"
+  },
+  {
+    "match_id":"https:\/\/fbref.com\/en\/matches\/d893be3b\/Sunderland-Leeds-United-October-4-2024-Championship",
+    "team_name":"Leeds United",
+    "stat_name":"Long Balls",
+    "stat_value":"42"
+  }
+]
